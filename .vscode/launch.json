@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-Bancog58Application<bancog58>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.backend.bancog58.Bancog58Application",
+            "projectName": "bancog58",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
